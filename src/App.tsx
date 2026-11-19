@@ -18,9 +18,8 @@ function App() {
         <div>
           <h1>My first deployment</h1>
           <h2>Victor Manuel Solis Cardoza</h2>
-          <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-          </p>
+
+          <p>Hello World!!!!</p>
         </div>
         <button
           type="button"
